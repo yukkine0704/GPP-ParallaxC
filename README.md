@@ -21,3 +21,5 @@ Make sure to download this correctly:
 - Done!
 
   [IMGUR ALBUM](https://imgur.com/gallery/gpp-parallax-c-JBqo66L)
+
+  [![Imgur](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@yukkine0704) 
