@@ -20,6 +20,7 @@ Make sure to download this correctly:
 - Copy contents of both zip files into your Gamedata folder
 - Done!
 
-  [IMGUR ALBUM](https://imgur.com/gallery/gpp-parallax-c-JBqo66L)
+  
+## 🌐 Some pics:
 
-  [![Imgur](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@yukkine0704) 
+  [IMGUR ALBUM](https://imgur.com/gallery/gpp-parallax-c-JBqo66L)
