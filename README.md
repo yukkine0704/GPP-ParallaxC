@@ -1,4 +1,4 @@
-# GPP Parralax Continued
+# GPP Parralax Continued TERRAIN ONLY
 *Parallax Terrain and Scaled support for Galileo's Planet Pack *
 
 
@@ -13,10 +13,11 @@ Make sure to download this correctly:
 
 ### INSTALLATION
 
-- Get Parallax Continued from Linx's Patreon 
-- Copy all the content into your Gamedata folder and delete Parallax_StockScatterTextures\Configs and Parallax_StockTerrainTextures_Configs folders.
-- Download the latest configs from releases.
-- Download the texture zip file from [here](https://drive.google.com/file/d/1EsBi3nIQxZoKVlrSEXuGUMo4hlk4dhn_/view)
+- Install GPP
+- Get Parallax Continued from Linx's Patreon
+- Copy all the content into your Gamedata folder then delete Parallax_StockScatterTextures/Configs, Parallax_StockPlanetTextures and Parallax_StockTerrainTextures/_Configs folders.
+- Download the latest configs from [releases](https://github.com/yukkine0704/GPP-ParallaxC/releases).
+- Download the texture zip file from [here](https://drive.google.com/file/d/1NZ3zuK3iZ3DhgsMjJJ_9oHIf18OWXarm/view)
 - Copy contents of both zip files into your Gamedata folder
 - Done!
 
